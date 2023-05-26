@@ -3,3 +3,12 @@
 <h3 align="center">Computer science student from Russia</h3>
 <a href="https://github.com/hhaty">
     <img height:100%; width:100%; alt="kitty" src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif">
+<p class="aligncenter">
+    <img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" alt="kitty">
+</p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
