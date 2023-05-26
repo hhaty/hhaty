@@ -6,9 +6,3 @@
 <p class="aligncenter">
     <img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" alt="kitty">
 </p>
-
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
