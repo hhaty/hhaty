@@ -1,8 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/hhaty" target="_blank">Sergey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia</h3>
-<a href="https://github.com/hhaty">
-    <img height:100%; width:100%; alt="kitty" src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif">
-<p class="aligncenter">
-    <img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" alt="kitty">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
+
